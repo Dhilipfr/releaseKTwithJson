@@ -1,5 +1,5 @@
 This is document360 resync
-
+dhilip
 I had updated this file.
 
 At the start, it could be overwhelming to explore a new product. We wanted to give you some head start to start with the basics and then slowly explore the features at your phase. 
